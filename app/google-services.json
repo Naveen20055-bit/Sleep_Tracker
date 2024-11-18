@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653324984795",
+    "project_id": "naveen-11072005",
+    "storage_bucket": "naveen-11072005.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653324984795:android:8365b76745c7a479ecc7fe",
+        "android_client_info": {
+          "package_name": "com.example.projectone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmGdreMfj1JxeE3KRrDYXSXQ9ixbSDZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
